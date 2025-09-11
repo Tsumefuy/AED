@@ -107,7 +107,7 @@ void concat(tp_pilha *p1, tp_pilha *p2) {
 
     while(!empty_pilha(&paux)) {
         pop(&paux, &e);
-        push(p2, e);
+        push(p1, e);
     }
 }
 
