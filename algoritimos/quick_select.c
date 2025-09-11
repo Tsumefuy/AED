@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Retorna o maior número (corrigir depois, está bugado)
+
 int quickselect(int a[10], const int low, const int high, int k) {
 
     int i = low;
