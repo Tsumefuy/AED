@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "bibliotecas/pilha.h"
+#include "../bibliotecas/pilha.h"
 
 int main() {
     char exp[100];

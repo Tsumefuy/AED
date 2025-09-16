@@ -1,4 +1,4 @@
-#include "bibliotecas/pilha.h"
+#include "../bibliotecas/pilha.h"
 
 int main() {
     tp_pilha pilha, pilha2;
