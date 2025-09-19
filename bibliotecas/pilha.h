@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 #define PILHA_H
-#define MAX 10
+#define MAX 30
 
-typedef int tp_item;
+typedef char tp_item;
 
 typedef struct {
 	int top;
